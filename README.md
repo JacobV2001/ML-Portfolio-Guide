@@ -7,4 +7,12 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
   - Unsupervised Learning
   - Deep Learning
   - Reinforced Learning
+  - Time Series Analysis
+  - Ensemble Methods
 - SQL
+- Visualization
+- Python?
+- Data Manipulation & Cleaning
+- Data Preprocessing & Feature Engineering
+- Cloud Computing?
+- Big Data?
