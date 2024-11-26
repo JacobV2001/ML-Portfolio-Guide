@@ -15,4 +15,4 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 - Data Manipulation & Cleaning
 - Data Preprocessing & Feature Engineering
 - Cloud Computing?
-- Big Data?
+<- Big Data?>
