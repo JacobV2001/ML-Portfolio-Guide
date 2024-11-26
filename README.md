@@ -5,14 +5,52 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 - **Machine Learning Projects**
   - Supervised Learning
   - Unsupervised Learning
-  - Deep Learning
   - Reinforced Learning
+<!--
+  - Deep Learning
   - Time Series Analysis
   - Ensemble Methods
-- SQL
+  -->
+ - SQL
+
+  <!--
 - Visualization
 - Python?
 - Data Manipulation & Cleaning
 - Data Preprocessing & Feature Engineering
 - Cloud Computing?
-<- Big Data?>
+- Big Data?
+-->
+
+
+***
+
+# Machine Learning
+
+## Supervised Learning
+
+| Project Link | Algorithm | Tools | Project Description |
+|---|---|---|---|
+
+
+## Unsupervised Learning
+
+| Project Link | Algorithm | Tools | Project Description |
+|---|---|---|---|
+
+
+##  Reinforced Learning
+
+| Project Link | Algorithm | Tools | Project Description |
+|---|---|---|---|
+
+
+***
+
+# SQL 
+
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+
+
