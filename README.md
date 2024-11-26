@@ -12,10 +12,11 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
   - Ensemble Methods
   -->
  - SQL
+ - Python
+
 
   <!--
 - Visualization
-- Python?
 - Data Manipulation & Cleaning
 - Data Preprocessing & Feature Engineering
 - Cloud Computing?
@@ -57,4 +58,12 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 
+
+***
+
+# Python 
+
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
 
