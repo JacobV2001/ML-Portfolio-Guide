@@ -4,11 +4,11 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 ## 📚 Table of Contents
 - [**Machine Learning Projects**](#machine-learning)
   - Supervised Learning
+  - Unsupervised Learning
   - Biology Inspired Machine Learning
 - [**SQL**](#sql)
 - [**Python**](#python)
 <!--
-  - Unsupervised Learning
   - Reinforced Learning
   - Deep Learning
   - Time Series Analysis
@@ -36,6 +36,13 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 | 🎬 [Endgame Image Classifier](https://github.com/JacobV2001/Avengers-EndGame-Image-Classification) | SVM (Support Vector Machine) | OpenCV, scikit-learn, Selenium, Flask, Data Scrapping | A machine learning classifier that identifies Avengers: Endgame characters based on facial features using a Support Vector Machine. The project includes facial feature extraction with OpenCV and a local web interface for user interaction. |
 | 🚗 [Car Price Predictor](https://github.com/JacobV2001/Car_Prices_Predictor) | Linear Regression | Pandas, Flask, scikit-learn, Data Preprocessing | A machine learning-powered web application that predicts car prices based on features such as make, model, mileage, and condition. Built with Flask, the app achieves 99% accuracy using linear regression to predict car prices. |
 
+## Unsupervised Learning
+
+| Project Link | Algorithm | Tools | Project Description |
+|---|---|---|---|
+| 🍷 [Wine Cluster Analysis](https://github.com/JacobV2001/Machine-Learning-Projects/tree/main/Wine%20KMeans%20Clustering%20Analysis) | K-Means Clustering | Pandas, Data Visualization, Data Cleaning & Preprocessing, Feature Scaling | This project uses K-Means Clustering to group wines 🍷 based on different features and evaluates how they compare to true labels. It involves data preprocessing, feature scaling 📊, and evaluations to create a model with 93% accuracy. |
+
+
 ## Biology Inspired Machine Learning
 
 | Project Link | Algorithm | Tools | Project Description |
@@ -44,11 +51,6 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 
 
 <!--
-## Unsupervised Learning
-
-| Project Link | Algorithm | Tools | Project Description |
-|---|---|---|---|
-
 
 ##  Reinforced Learning
 
