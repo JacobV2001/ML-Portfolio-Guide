@@ -7,6 +7,7 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
   - Unsupervised Learning
   - Biology Inspired Machine Learning
   - Deep Learning
+  - Anomaly Detection
 - [**SQL**](#sql)
 <!--
 - [**Python**](#python)
@@ -55,6 +56,14 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 | Project Link | Algorithm | Tools | Project Description |
 |---|---|---|---|
 | 😷 [Face Mask Detection using CNN](https://github.com/JacobV2001/Machine-Learning-Projects/tree/main/Face%20Mask%20Detection%20CNN) | Convolutional Neural Networks (CNN) | TensorFlow, OpenCV, NumPy, Matplotlib, Seaborn | This project utilizes a CNN-based model 🧠 to classify face images as with or without a mask achieving 92.5% accuracy using Tensorflow. It demonstrates the use of image preprocessing 🖼️, model building, and evaluation for mask detection applications.  |
+
+## Anomaly Detection
+
+| Project Link | Algorithm | Tools | Project Description |
+|--------------|-----------|-------|---------------------|
+| 🚨 [Fraud Detection](https://github.com/JacobV2001/Machine-Learning-Projects/tree/main/Credit%20Card%20Fraud%20Detection) | XGBoost, Logistic Regression, Random Forest | Class Imbalance Handling, Data Visualization, Financial Expertise, Grid Search, Data Preprocessing | This project uses machine learning to detect fraudulent transactions 💳, achieving 99% recall. Multiple models were applied through GridSearch to find the highest score, focusing on recall to capture more frauds. 🚨 |
+
+
 
 <!--
 
