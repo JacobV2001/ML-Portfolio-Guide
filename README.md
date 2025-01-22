@@ -82,6 +82,8 @@ Welcome to my Machine Learning portfolio! Here, I showcase a selection of my pro
 | --- | --- | --- |
 | 🔍 [Does Price Correlate with Quality?](https://github.com/JacobV2001/DS_Books_SQL_Analysis) | Data Analysis, Data Transformation, SQL Queries & Aggregation | This project analyzes the relationship between book prices and their average ratings to see if higher prices correlate with better quality. |
 | 📊 [Exploring E-commerce Website Analysis with Funnels](https://github.com/JacobV2001/E-Commerse_-SQL_Analysis/tree/main) | Data Analysis, Funnel Analysis, Joins & Grouping, Data Pivoting | This project analyzes user interactions on an e-commerce website, focusing on funnel conversion rates, and examines how device type (desktop 💻 vs. mobile 📱) and gender influence user behavior and conversion rates. |
+| 🔗 [Database Development and QA](https://github.com/JacobV2001/Quality-Assurance/tree/main/SQL%20Database%20Development%20and%20Quality%20Assurance) | Database Design, Data Validation, Security Management, Reporting Queries | Designed and optimized a SQL database with normalized structure and robust constraints to ensure data integrity. Implemented role-based security, automated testing for functionality, and advanced reporting queries for data insights. Showcased CRUD operations with data validation and secure access controls. |
+
 <!--
 ***
 
